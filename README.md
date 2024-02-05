@@ -27,7 +27,7 @@ This web application allows users to sign up by filling out a form with fields l
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd user-profile-web-app
+    cd SignUp-and-Profile-display
     ```
 
 2. Install dependencies:
